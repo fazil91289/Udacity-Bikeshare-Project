@@ -172,7 +172,7 @@ def popular_month(df):
     elif most_pop_month == 7:
         print("Most popular month is July")
     else:
-        print("I donno ask your Mom")
+        print("I dont understand")
 
 
 
