@@ -1,11 +1,11 @@
 ### Date created
-Wednesday 29th July 202
+Wednesday 29th July 2020
 
 ### Project Title
 Udacity Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+The project provides summary statistics of bike share data for three city Chicago, New York and Washington.
 
 ### Files used
 Include the files used
