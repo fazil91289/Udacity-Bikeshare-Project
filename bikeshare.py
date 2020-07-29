@@ -352,7 +352,7 @@ if city == 'chicago' or city == 'new york':
     birth_years(df)
 
 
-validation = input('Do you want to see individual data?')
+validation = input('Do you want to see 5 lines of individual data?')
 
 if validation.lower() == 'yes':
     display_5lines()
